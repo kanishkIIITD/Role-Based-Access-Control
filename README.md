@@ -47,7 +47,7 @@ A full-stack blog platform built with React, Node.js, Express, and MongoDB, feat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kanishkIIITD/Role-Based-Access-Control.git
 cd blog-platform
 ```
 
